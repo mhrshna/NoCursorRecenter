@@ -8,6 +8,7 @@
   "authors": [
     "mhrshna"
   ],
+  "icon": "assets/pausecursorfix/icon.png",
   "environment": "client",
   "mixins": [
     {
